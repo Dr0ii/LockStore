@@ -1,5 +1,5 @@
 # **LockStore**
-版本： V 1.2.5
+版本： V 1.2.6
 
 ## 介绍
 Cowabunga 锁头资源站
